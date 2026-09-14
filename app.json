@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Pr\u00f3ximo",
+    "slug": "proximo-tren",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1220"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "ar.proximo.tren"
+    },
+    "android": {
+      "package": "ar.proximo.tren"
+    }
+  }
+}
